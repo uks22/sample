@@ -1,1 +1,1 @@
-# sample input
+# sample input(1)
